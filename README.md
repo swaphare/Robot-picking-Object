@@ -1,4 +1,5 @@
-Project2: Robot and Object Simulation
+Project: Robot and Object Simulation
+
 Overview
 This MATLAB project simulates the interaction between a robot and an object that starts at a random distance from the robot. The robot moves towards the object, and the object moves based on a random probability. The purpose of this simulation is to calculate the expected time (ET) it takes for the robot to catch the object under different movement strategies and probabilities.
 
