@@ -1,4 +1,4 @@
-function [ET] =  Project2_skharat_ndhapola()
+function [ET] =  Project_Swaphare()
     
     D = [10 11 12 12 13 13 14 14 14 15 15 15 15 16 16 16 17 17 18 19]; %Array of distance
     
